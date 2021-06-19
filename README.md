@@ -6,6 +6,4 @@
  
  
  - Skills and Technologies:
- <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-pill&logo=Python&logoColor=white" />
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-<img alt="C++" src="https://img.shields.io/badge/++-darkblue?style=flat-pill&logo=C&logoColor=white" />
+ <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-pill&logo=Python&logoColor=white" /><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /><img alt="C++" src="https://img.shields.io/badge/++-darkblue?style=flat-pill&logo=C&logoColor=white" />
