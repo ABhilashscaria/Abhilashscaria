@@ -7,3 +7,4 @@
  
  - Skills and Technologies:
  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-pill&logo=Python&logoColor=white" /><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+ <img alt = "SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
