@@ -5,6 +5,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Abhilash-blue?style=flat-pill&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhilash-scaria-04359531/)](https://www.linkedin.com/in/abhilash-scaria-04359531/)
  
  
- - Skills and Technologies:
- <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-pill&logo=Python&logoColor=white" /><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
- <img alt = "SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+ - Skills and Technologies: Python, SQL, Pytorch
