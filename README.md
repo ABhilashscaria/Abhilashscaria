@@ -6,9 +6,6 @@ computer vision, LLM pipelines, and edge inference.
 Currently building an agentic analytics copilot 
 (LangGraph · RAG · Qdrant) and exploring TinyML on ESP32.
 
-Production CV and IoT work at Prodisyn is proprietary —
-architecture and results on LinkedIn.
-
 Stack: PyTorch · TensorRT · LangGraph · RAG · Docker · AWS · FastAPI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhilash%20P%20Scaria-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhilash-p-scaria-04359531)
