@@ -1,6 +1,6 @@
 # Abhilash P Scaria
 
-ML Engineer focused on production AI systems — 
+ML Engineer focused on production grade AI systems — 
 computer vision, LLM pipelines, and edge inference.
 
 Currently building an agentic analytics copilot 
