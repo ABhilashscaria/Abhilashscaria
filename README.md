@@ -3,8 +3,7 @@
 ML Engineer focused on production grade AI systems — 
 computer vision, LLM pipelines, and edge inference.
 
-Currently building an agentic analytics copilot 
-(LangGraph · RAG · Qdrant) and exploring TinyML on ESP32.
+Currently working on Depth fusion on Yolo11 to reduce false positives and exploring TinyML on ESP32.
 
 Stack: PyTorch · TensorRT · LangGraph · RAG · Docker · AWS · FastAPI
 
